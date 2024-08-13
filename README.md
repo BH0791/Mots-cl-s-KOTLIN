@@ -17,10 +17,9 @@ Les mots-clés suivants sont toujours interprétés comme des mots-clés et ne p
 -	**if** *commence une expression if.*
 -	**in**
 	*Spécifie l’objet itéré dans une boucle for. est utilisé comme opérateur infix pour vérifier qu’une valeur appartient à une plage, à une collection ou à une autre entité qui définit une méthode* 
--    **contains** *est utilisé dans lorsque des expressions dans le même but. Marque un paramètre de type comme contravariant.*
--	**!in**
-	*est utilisé comme opérateur pour vérifier qu’une valeur n’appartient PAS à une plage, une collection ou une autre entité qui définit une méthode **contient.**
-	*est utilisé dans lorsque des expressions dans le même but. interface déclare une interface.*
+- 	**contains** *est utilisé dans lorsque des expressions dans le même but. Marque un paramètre de type comme contravariant*
+-	**!in** *est utilisé comme opérateur pour vérifier qu’une valeur n’appartient PAS à une plage, une collection ou une autre entité qui définit une méthode.*
+-	**contient.** *est utilisé dans lorsque des expressions dans le même but. interface déclare une interface.*
 -	**is**
 	*Vérifie qu’une valeur a un certain type. est utilisé dans lorsque des expressions dans le même but.*
 -	**!is**
